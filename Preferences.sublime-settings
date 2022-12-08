@@ -14,7 +14,9 @@
 	"vintage_use_clipboard": true,
 	"vintage_ctrl_keys": true,
 	"relative_line_numbers": true,
-	"ignored_packages": [],
+	"ignored_packages": [
+	],
+	"draw_white_space": ["selection", "leading", "isolated"],
 	"theme": "auto",
 	"color_scheme": "Mariana.sublime-color-scheme",
 }
